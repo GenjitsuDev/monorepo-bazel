@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "esbenp.prettier-vscode",
+    "ms-python.black-formatter",
+    "ms-python.autopep8",
+    "mikestead.dotenv",
+    "be5invis.toml",
+    "foxundermoon.shell-format",
+    "BazelBuild.vscode-bazel"
+  ]
+}
